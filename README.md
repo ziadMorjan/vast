@@ -11,6 +11,7 @@
 
   <a href="https://codewithsadee.github.io/vast/"><strong>➥ Live Demo</strong></a>
 
+  <a href="https://ziadmorjan.github.io/vast/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />
